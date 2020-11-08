@@ -1,0 +1,11 @@
+﻿  lab2_oop_v.cpp
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(313,36): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(333,21): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(386,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(648,36): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(649,36): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(650,47): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(651,47): warning C4244: 'argument': conversion from '__int64' to 'const int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(689,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\koka5\source\repos\lab2_oop_v\lab2_oop_v\lab2_oop_v.cpp(804,43): warning C4244: 'argument': conversion from '__int64' to 'const unsigned int', possible loss of data
+  lab2_oop_v.vcxproj -> C:\Users\koka5\source\repos\lab2_oop_v\Debug\lab2_oop_v.exe
